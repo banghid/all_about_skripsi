@@ -1,3 +1,6 @@
 daily_gtrend_data.csv
 data_bitcoin.csv
 data_bitconity_full_daily.csv
+bitcoinity_mining_difficulty.csv
+bitcoinity_number_of_transaction.csv
+bitcoinity_trades_per_minute.csv
